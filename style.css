@@ -1,0 +1,29 @@
+body {
+    background-color: #181818;
+}
+
+#NAV {
+    display: flex;
+    justify-content: space-around;
+    background-color: #181818;
+    margin-left: 425px;
+    margin-right: 425px;
+}
+
+.NavText {
+    color: #ffffff;
+    font-size: smaller;
+    font-family: Helvetica;
+}
+
+#logo {
+    width: 20px;
+    height: 20px;
+    padding-top: 8px;
+}
+
+#search {
+    width: 20px;
+    height: 20px;
+    padding: 15px;
+}
